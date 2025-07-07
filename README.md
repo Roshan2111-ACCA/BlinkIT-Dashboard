@@ -209,5 +209,4 @@ Blinkit operates in a highly competitive on-demand delivery sector. With a growi
 - Uncovered geographic and demographic sales patterns  
 - Provided actionable KPIs for sales and marketing strategy  
 
----
-https://github.com/Roshan2111-ACCA/BlinkIT-Dashboard/blob/main/Power%20BI%20Dashboard%20SS.png
+![image alt](https://github.com/Roshan2111-ACCA/BlinkIT-Dashboard/blob/bb4d95ee29604a4fbece2354287394a33e7028bc/Power%20BI%20Dashboard%20SS.png)
